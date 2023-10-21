@@ -3,4 +3,5 @@
 Hej 👋 there, I'm Johann!
 
 - Website: <https://www.johannhuang.com>
-- Twitter: <https://twitter.com/johannhuang_com>
+- GitHub: <https://github.com/johannhuang>
+- Mastodon: <https://mastodon.social/@johannhuang>
