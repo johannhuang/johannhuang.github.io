@@ -1,10 +1,11 @@
 # johannhuang.github.io
 
-Hej 👋 there, I'm Johann!
+Hallo 👋 there, I'm Johann!
 
-- Website: <https://www.johannhuang.com>
-- GitHub: <https://github.com/johannhuang>
-- Mastodon: <https://mastodon.social/@johannhuang>
+* Website: <https://www.johannhuang.com>
+* Threads: <https://www.threads.net/@johannhuang_com>
+* Mastodon: <https://mastodon.social/@johannhuang>
+* GitHub: <https://github.com/johannhuang>
 
 <style>
   @media (prefers-color-scheme: dark) {
